@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "Vladimir Zaporozhets",
-            "email": "akropolx@gmail.com"
+            "email": "scriptixru@gmail.com"
         }
     ],
     "require": {
@@ -15,6 +15,11 @@
     "autoload": {
         "psr-4": {
           "Scriptixru\\SypexGeo\\": "src/Scriptixru/SypexGeo"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "master": "0.2-dev"
         }
     }
 }
