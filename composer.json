@@ -1,12 +1,12 @@
 {
     "name": "akropol/sypexgeo",
-    "description": "Supports GeoIP services (sypexgeo.net).",
-    "keywords": ["laravel", "laravel 5", "geoip", "location", "geolocation"],
+    "description": "Supports GeoIP services.",
+    "keywords": ["laravel", "laravel 5.4", "geoip", "location", "geolocation"],
 	"license": "BSD 2-Clause",
     "authors": [
         {
-            "name": "Varchak Valery",
-            "email": "scriptixru@gmail.com"
+            "name": "Vladimir Zaporozhets",
+            "email": "akropolx@gmail.com"
         }
     ],
     "require": {
@@ -14,12 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-          "Scriptixru\\SypexGeo\\": "src/Scriptixru/SypexGeo"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "master": "0.2-dev"
+          "Akropol\\SypexGeo\\": "src/Akropol/SypexGeo"
         }
     }
 }
