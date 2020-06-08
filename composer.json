@@ -12,12 +12,6 @@
     "require": {
         "php": ">=5.4.0"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "git@github.com:Akropol/sypexgeo.git"
-        }
-    ],
     "autoload": {
         "psr-4": {
           "Scriptixru\\SypexGeo\\": "src/Scriptixru/SypexGeo"
