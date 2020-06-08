@@ -3,6 +3,7 @@
     "description": "Supports GeoIP services.",
     "keywords": ["laravel", "laravel 5.4", "geoip", "location", "geolocation"],
 	"license": "BSD 2-Clause",
+    "minimum-stability": "dev-master",
     "authors": [
         {
             "name": "Vladimir Zaporozhets",
